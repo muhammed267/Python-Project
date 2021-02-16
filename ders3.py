@@ -56,22 +56,3 @@ elif sayi >= 50:
 
 elif sayi <= 50:
 	print("Sayi 50'ye esit ve kucuktur. ")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
